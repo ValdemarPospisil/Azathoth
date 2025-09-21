@@ -1,0 +1,2 @@
+# Azathoth
+NixOS config files
